@@ -2,4 +2,4 @@
 Assignment Details: Use MONGODB to edit and update a database
 Using Anaconda, activating MongoBD.
 
-Resources used: QuickDBD, Google AI and CHATGPT for format questions, Examples from class (UT Bootcamp), Stack Overflow and help from one-on-one tutoring. 
+Resources used: QuickDBD, Google AI and CHATGPT for format questions, Examples from class (UT Bootcamp), Stack Overflow and help from one-on-one tutoring (Fred Logan with the MongoDB set up as well) 
